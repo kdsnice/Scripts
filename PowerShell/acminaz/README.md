@@ -4,7 +4,7 @@ PowerShell scripts for deploying Ubuntu 14.10 in Azure and installing Ansible
 
 ## Usage
 
-* Put your public ssh-key as PEM-certificate to the `acminaz` folder.
+* Put your public ssh-key as PEM-certificate to the `acminaz` folder. (See below)
 * Fill out appropriate variables in `Vars.ps1`.
 * Open `CreateHost.ps1` in PowerShell ISE. 
 * Connect to your Azure subscription. 
