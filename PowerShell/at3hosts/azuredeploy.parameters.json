@@ -1,0 +1,17 @@
+{
+    "newStorageAccountName": {
+        "value": "tnicergstr1"
+    },
+    "adminUsername": {
+        "value": "nice"
+    },
+    "dnsNameForPublicIP": {
+        "value": "tnicergpi1"
+    },
+    "ubuntuOSVersion": {
+        "value": "14.04.2-LTS"
+    },
+    "sshKeyData": {
+        "value": "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA65tLMs7JhkPLQJo0Kl7CL1MfCL08oGyrqZdwSDIksYcqscA4O4Ez55XpuFvjq8MT6oXC798F/64pW+tB7XEecXmRmHc5zmSCUS/sUZN0IXbSWwHqkKAiS/yfH66rPYMjFGmHf/pUX13jrLvVlo3MsqDbU0yR6oAyxoJndPUcyOpsEKURJzb1XqcvF5D9Rs1rSiELkFxtGHrqpQoMrKsesLmM1r2EY9OXhPySVnB3bhy2yO+raT9z8pA9KNp7itIzZNaYop70pQ6z1E5IoReTk6c03JEDgrKJsvVnoW6AXqUIwz+jrCedTvtIogvlEe6lgk8nWzvVZhhhuqunwCsXbw== rsa-key-dkaranfilov"
+    }
+}
