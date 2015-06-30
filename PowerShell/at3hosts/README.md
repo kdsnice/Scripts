@@ -1,3 +1,7 @@
+<a href="https://azuredeploy.net/" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+
 # Ansible Traning Machines in Azure
 
 Azure Resource Manager templates for deploying 3 linux boxes in Azure for Ansible training
