@@ -4,6 +4,7 @@ Azure Resource Manager templates for deploying 3 linux boxes in Azure for Ansibl
 
 ## Usage
 
+* Fill out necessary parameters in azuredeploy.parameters.json
 * Open PowerShell ISE. 
 * Connect to your Azure subscription
 * `Switch-AzureMode AzureResourceManager`
